@@ -1,0 +1,4 @@
+execUserPreload()
+{
+    __writeMemory32(0x00000002, 0xFFFF0220, "Memory"); // MEMMAP = 2;
+}

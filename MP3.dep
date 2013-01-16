@@ -1,0 +1,1017 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\Debug\Obj\testmain.r79</file>
+      <file>$PROJ_DIR$\VS1003\vs1003.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\system.r79</file>
+      <file>$PROJ_DIR$\source\LCD12864S_LPC2103.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\Fat16.pbi</file>
+      <file>$PROJ_DIR$\source\Fat16.h</file>
+      <file>$PROJ_DIR$\..\source\sddriver.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\LCD12864S_LPC2103.pbi</file>
+      <file>$PROJ_DIR$\..\source for SSP\main.c</file>
+      <file>$PROJ_DIR$\source\sddriver.c</file>
+      <file>$PROJ_DIR$\MP3_SSP\source\system.h</file>
+      <file>$TOOLKIT_DIR$\lib\dl4tptinl8n.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\sdcrc.r79</file>
+      <file>$PROJ_DIR$\..\..\laoshi\vs1003.c</file>
+      <file>$PROJ_DIR$\..\source\vs1003.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\vs1003.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\iolpc2104.h</file>
+      <file>$PROJ_DIR$\..\source\Fat16.c</file>
+      <file>$PROJ_DIR$\..\source for SSP\vs1003.c</file>
+      <file>$PROJ_DIR$\..\source for SSP\testmain.c</file>
+      <file>$PROJ_DIR$\..\source\vs1003.c</file>
+      <file>$PROJ_DIR$\..\source\Fat16.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\TTTT.pbi</file>
+      <file>$PROJ_DIR$\Debug\Exe\MP3.sim</file>
+      <file>$PROJ_DIR$\source\sdcrc.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\vs1003_ssp.pbi</file>
+      <file>$PROJ_DIR$\MP3_SSP\source\sdhal.c</file>
+      <file>$PROJ_DIR$\config\LPC2103_flash.xcl</file>
+      <file>$PROJ_DIR$\Debug\Obj\vs1003_SPI.r79</file>
+      <file>$PROJ_DIR$\..\LCD12864S_LPC2103.c</file>
+      <file>$PROJ_DIR$\source\system.h</file>
+      <file>$PROJ_DIR$\MP3_SSP\source\sddriver.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\&#x6797;&#x519C;.pbi</file>
+      <file>$PROJ_DIR$\..\source\sdhal.c</file>
+      <file>$PROJ_DIR$\MP3_SSP\source\system.c</file>
+      <file>$TOOLKIT_DIR$\inc\DLib_Defaults.h</file>
+      <file>$TOOLKIT_DIR$\inc\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\source\vs1003.h</file>
+      <file>$PROJ_DIR$\MP3_SSP\source\sdcmd.c</file>
+      <file>$TOOLKIT_DIR$\inc\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\..\source\testmain.c</file>
+      <file>$PROJ_DIR$\VS1003B\vs1003.c</file>
+      <file>$PROJ_DIR$\source\vs1003_ssp.c</file>
+      <file>$PROJ_DIR$\Debug\Exe\MP3.d79</file>
+      <file>$PROJ_DIR$\Debug\Obj\&#x6D4B;&#x8BD5;&#x51FD;&#x6570;.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\system.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\vs1003_SPI.pbi</file>
+      <file>$PROJ_DIR$\MP3_SSP\source\sdcmd.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\sddriver.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\sdcmd.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\iolpc2101.h</file>
+      <file>$PROJ_DIR$\..\source\sdcrc.c</file>
+      <file>$PROJ_DIR$\MP3_SSP\source\sdcrc.c</file>
+      <file>$PROJ_DIR$\VS1003B\vs1003.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\vs1003_ssp.r79</file>
+      <file>$PROJ_DIR$\..\source\config.h</file>
+      <file>$PROJ_DIR$\source\vs1003.c</file>
+      <file>$PROJ_DIR$\..\source\sdhal.h</file>
+      <file>$PROJ_DIR$\MP3_SSP\source\sdhal.h</file>
+      <file>$PROJ_DIR$\..\VS1003(5.16)\vs1003&#x9A71;&#x52A8;\vs1003.c</file>
+      <file>$PROJ_DIR$\..\source\sdcmd.h</file>
+      <file>$PROJ_DIR$\..\vs1003_ssp.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\sdcrc.pbi</file>
+      <file>$PROJ_DIR$\VS1003\main.c</file>
+      <file>$PROJ_DIR$\source\config.h</file>
+      <file>$PROJ_DIR$\..\vs1003_SPI.h</file>
+      <file>$PROJ_DIR$\VS1003\vs1003.h</file>
+      <file>$TOOLKIT_DIR$\inc\yvals.h</file>
+      <file>$PROJ_DIR$\..\source\sdconfig.h</file>
+      <file>$PROJ_DIR$\MP3_SSP\source\vs1003_ssp.h</file>
+      <file>$TOOLKIT_DIR$\inc\ysizet.h</file>
+      <file>$PROJ_DIR$\MP3_SSP\source\sdcrc.h</file>
+      <file>$PROJ_DIR$\MP3_SSP\source\Fat16.h</file>
+      <file>$PROJ_DIR$\source\sdcmd.c</file>
+      <file>$PROJ_DIR$\source\sdcmd.h</file>
+      <file>$TOOLKIT_DIR$\inc\stdlib.h</file>
+      <file>$PROJ_DIR$\..\source\sddriver.h</file>
+      <file>$PROJ_DIR$\MP3_SSP\source\sdconfig.h</file>
+      <file>$PROJ_DIR$\source\sdconfig.h</file>
+      <file>$PROJ_DIR$\..\source\sdcmd.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\sdcmd.r79</file>
+      <file>$PROJ_DIR$\Debug\Obj\testmain.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\stdio.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\&#x6D4B;&#x8BD5;&#x51FD;&#x6570;.r79</file>
+      <file>$PROJ_DIR$\..\source\sdcrc.h</file>
+      <file>$PROJ_DIR$\source\sdhal.h</file>
+      <file>$PROJ_DIR$\..\&#x6797;&#x519C;.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\Fat16.r79</file>
+      <file>$PROJ_DIR$\source\sdcrc.c</file>
+      <file>$PROJ_DIR$\source\testmain.c</file>
+      <file>$PROJ_DIR$\source\sddriver.h</file>
+      <file>$PROJ_DIR$\MP3_SSP\source\sddriver.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\MP3.pbd</file>
+      <file>$PROJ_DIR$\Debug\Obj\&#x6797;&#x519C;.r79</file>
+      <file>$PROJ_DIR$\source\sdhal.c</file>
+      <file>$PROJ_DIR$\source\vs1003_ssp.h</file>
+      <file>$TOOLKIT_DIR$\inc\iolpc2103.h</file>
+      <file>$TOOLKIT_DIR$\inc\iolpc210x.h</file>
+      <file>$PROJ_DIR$\source\Fat16.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.r79</file>
+      <file>$PROJ_DIR$\MP3_SSP\source\vs1003_ssp.c</file>
+      <file>$PROJ_DIR$\MP3_SSP\source\Fat16.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\sdhal.r79</file>
+      <file>$PROJ_DIR$\..\source for SSP\vs1003.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\TTTT.r79</file>
+      <file>$TOOLKIT_DIR$\inc\DLib_Product.h</file>
+      <file>$PROJ_DIR$\..\source\TTTT.c</file>
+      <file>$PROJ_DIR$\..\vs1003_ssp.c</file>
+      <file>$TOOLKIT_DIR$\inc\io_macros.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\sddriver.r79</file>
+      <file>$TOOLKIT_DIR$\lib\dl4tptinl8n.r79</file>
+      <file>$PROJ_DIR$\Debug\Obj\LCD12864S_LPC2103.r79</file>
+      <file>$PROJ_DIR$\MP3_SSP\source\testmain.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\vs1003.r79</file>
+      <file>$PROJ_DIR$\Debug\Obj\sdhal.pbi</file>
+      <file>$PROJ_DIR$\..\vs1003_SPI.c</file>
+      <file>$PROJ_DIR$\..\VS1003(5.16)\vs1003&#x9A71;&#x52A8;\vs1003.h</file>
+      <file>$PROJ_DIR$\..\source\&#x6D4B;&#x8BD5;&#x51FD;&#x6570;.c</file>
+      <file>$PROJ_DIR$\source\system.c</file>
+      <file>$PROJ_DIR$\..\..\laoshi\vs1003.h</file>
+      <file>$PROJ_DIR$\MP3_SSP\source\config.h</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\VS1003\vs1003.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 115</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 15</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 68 84 69 35 11 107 39 36 72 50 98 52 110</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 68 84 69 35 107 39 36 72 50 98 52 110</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\source\LCD12864S_LPC2103.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 113</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 7</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 98 52 110</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 98 52 110</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\source\sddriver.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 111</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 49</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 57 98 52 110 70 59 62 78</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 57 98 52 110 70 59 62 78</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\source for SSP\main.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 101</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 48</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 84 69 35 11 107 39 36 72 105 50 98 52 110</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 84 69 35 107 39 36 72 105 50 98 52 110</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\source\sddriver.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 111</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 49</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 66 98 52 110 80 87 76 92</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 66 98 52 110 80 87 76 92</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\laoshi\vs1003.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 115</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 15</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 121 98 52 110</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 121 98 52 110</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\source\Fat16.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 89</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 4</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 21 78 57 98 52 110 70 77 69 35 11 107 39 36 72</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 21 78 57 98 52 110 70 77 69 35 107 39 36 72</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\source for SSP\vs1003.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 115</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 15</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 105 84 69 35 11 107 39 36 72 50 98 52 110</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 105 84 69 35 107 39 36 72 50 98 52 110</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\source for SSP\testmain.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 0</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 83</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\source\vs1003.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 115</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 15</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 14 98 52 110</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 14 98 52 110</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MP3_SSP\source\sdhal.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 104</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 116</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 122 98 52 110 79 60</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\LCD12864S_LPC2103.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 113</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 7</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 98 52 110</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\source\sdhal.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 104</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 116</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 57 98 52 110 70 59</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 57 98 52 110 70 59</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MP3_SSP\source\system.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 2</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 45</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 10 99 16 110</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MP3_SSP\source\sdcmd.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 82</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 51</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 122 98 52 110 79 60 73 47 31</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\source\testmain.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 0</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 83</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 21 78 57 98 52 110 70 77 69 35 11 107 39 36 72</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 21 78 57 98 52 110 70 77 69 35 107 39 36 72</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\VS1003B\vs1003.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 115</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 15</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 55 98 52 110</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 55 98 52 110</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\source\vs1003_ssp.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 56</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 25</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 97 98 52 110 66</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 97 98 52 110 66</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\MP3.d79</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 23</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 27 89 113 82 12 111 104 2 0 56 112</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\source\sdcrc.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 12</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 64</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 57 98 52 110 70 59 78</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 57 98 52 110 70 59 78</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MP3_SSP\source\sdcrc.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 12</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 64</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 122 98 52 110 79 60 31</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\source\vs1003.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 115</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 15</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 37 84 69 35 11 107 39 36 72 50 98 52 110</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 37 84 69 35 107 39 36 72 50 98 52 110</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\VS1003(5.16)\vs1003&#x9A71;&#x52A8;\vs1003.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 115</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 15</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 118 98 52 110</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 118 98 52 110</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\VS1003\main.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 101</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 48</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 84 69 35 11 107 39 36 72 68 50 98 52 110</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 84 69 35 107 39 36 72 68 50 98 52 110</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\source\sdcmd.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 82</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 51</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 66 98 52 110 80 87 24 76 92</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 66 98 52 110 80 87 24 76 92</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\source\sdcmd.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 82</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 51</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 57 98 52 110 70 59 86 62 78</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 57 98 52 110 70 59 86 62 78</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\&#x6797;&#x519C;.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 95</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 32</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 98 52 110</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 98 52 110</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\source\sdcrc.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 12</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 64</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 66 98 52 110 80 87 92</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 66 98 52 110 80 87 92</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\source\testmain.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 0</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 83</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 66 98 52 110 30 5 92 80 77 69 35 11 107 39 36 72 97</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 66 98 52 110 30 5 92 80 77 69 35 107 39 36 72 97</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MP3_SSP\source\sddriver.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 111</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 49</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 122 98 52 110 79 60 47 31</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Obj\MP3.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 4 7 51 64 49 116 45 83 25</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\source\sdhal.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 104</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 116</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 66 98 52 110 80 87</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 66 98 52 110 80 87</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\source\Fat16.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 89</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 4</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 5 66 98 52 110 92 80 77 69 35 11 107 39 36 72</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 5 66 98 52 110 92 80 77 69 35 107 39 36 72</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MP3_SSP\source\vs1003_ssp.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 56</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 25</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 71 98 52 110 122</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MP3_SSP\source\Fat16.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 89</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 4</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 74 122 98 52 110 31 79 77 69 35 11 107 39 36 72</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\source\TTTT.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 106</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 22</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 21 78 57 98 52 110 70 77 69 35 11 107 39 36 72 14</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 21 78 57 98 52 110 70 77 69 35 107 39 36 72 14</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\vs1003_ssp.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 56</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 25</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 63 98 52 110</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 63 98 52 110</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MP3_SSP\source\testmain.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 0</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 83</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 122 98 52 110 10 74 31 79 77 69 35 11 107 39 36 72 71</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\vs1003_SPI.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 28</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 46</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 67 98 52 110</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 67 98 52 110</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\source\&#x6D4B;&#x8BD5;&#x51FD;&#x6570;.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 85</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 44</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\source\system.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 2</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 45</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 30 99 16 110</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 30 99 16 110</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 43 23</file>
+        </tool>
+      </outputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>XLINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+
